@@ -1,4 +1,4 @@
-package com.example.ranjith.tutor;
+package com.example.ranjith.tutor
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
